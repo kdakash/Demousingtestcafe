@@ -1,5 +1,5 @@
 
-print("just now learned how git and github works")
+print("just now learned how git and github works, ok done")
 
 
 
